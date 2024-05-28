@@ -1,3 +1,3 @@
 # demo-file
 learn about github
-auther: jeel patel
+auther: jeel unjiya
